@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matt Masahide
+- 👋 Hi, I’m @Matt Okikura
 - 👀 I’m interested in Machine Vision coding with C/C++, python, Java, C# and flutter.
 - 🌱 I’m currently learning IoT with alognics device API for Deep learning and IoT equipment.
 - 💞️ I’m looking to collaborate on image processing projects.
